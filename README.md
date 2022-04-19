@@ -8,7 +8,6 @@ This is just basic Fullstack Ruby on Rails 7 CRUD.
 I use Rspec for testing and webdriver to manipulate browsers automation testing, see Gemfile.
 
 #### Testing types
-- Model Test
 - Systems/Integration Test
 
 run the testing:
