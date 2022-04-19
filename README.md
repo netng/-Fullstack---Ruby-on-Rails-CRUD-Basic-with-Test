@@ -1,6 +1,6 @@
 # [Fullstack] - Ruby on Rails CRUD with Test
 
-![example workflow](https://github.com/netng/Fullstack-Ruby-on-Rails-CRUD-Basic-with-Test/actions/workflows/ci.yml/badge.svg)
+![example event parameter](https://github.com/netng/Fullstack-Ruby-on-Rails-CRUD-Basic-with-Test/actions/workflows/ci.yml/badge.svg?event=push)
 
 This is just basic Fullstack Ruby on Rails 7 CRUD.
 
