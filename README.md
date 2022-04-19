@@ -1,7 +1,7 @@
 # [Fullstack] - Ruby on Rails CRUD with Test
 
-![example event parameter](https://github.com/netng/Fullstack-Ruby-on-Rails-CRUD-Basic-with-Test/actions/workflows/CI/badge.svg?event=push)
-![example branch parameter](https://github.com/netng/Fullstack-Ruby-on-Rails-CRUD-Basic-with-Test/actions/workflows/CI/badge.svg?branch=main)
+![example event parameter](https://github.com/netng/Fullstack-Ruby-on-Rails-CRUD-Basic-with-Test/workflows/CI/badge.svg?event=push)
+![example branch parameter](https://github.com/netng/Fullstack-Ruby-on-Rails-CRUD-Basic-with-Test/workflows/CI/badge.svg?branch=main)
 
 This is just basic Fullstack Ruby on Rails 7 CRUD.
 
