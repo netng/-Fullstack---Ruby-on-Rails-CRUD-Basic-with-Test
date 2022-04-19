@@ -9,7 +9,8 @@ I use Rspec for testing and webdriver to manipulate browsers automation testing,
 - Model Test
 - Systems/Integration Test
 
-```rails rspec```
+run the testing:
+`$ rspec`
 
 ### Database
 I use PostgreSQL, or freely to use your preferences database if you want to try source code from this repo.
